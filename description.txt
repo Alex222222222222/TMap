@@ -1,0 +1,11 @@
+Teleport Map is a mod inspired by the tshock plugin MapTP(github.com/Rozen4334/MapTP).
+
+Simply craft the GlobalTeleporter and put it in the inventory.
+Open the fullmap and rightclick while pressing leftshift.
+You could teleport to the position your mouse targeted if you have the GlobalTeleporter in your inventory.
+
+GlobalTeleporter could be craft using 999*5 DirtBlock,
+                                      999*5 StoneBlock,
+                                      999*5 MudBlock,
+                                      999*5 SandBlock,
+                                      99 *5 Dynamite.

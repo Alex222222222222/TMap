@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DBC2x8mqpwSf/6RuSGWL4hbA88FbKP6qGSbaz3CtxXtapFxfNwZKHniBzhkubbtyztuOZARxTkMOZdqeZ2rE0Q==",
+  "success": true,
+  "projectFilePath": "/Users/zifanhua/Library/Application Support/Terraria/ModLoader/Beta/Mod Sources/TMap/TMap.csproj",
+  "expectedPackageFiles": [
+    "/Users/zifanhua/.nuget/packages/tmodloader.codeassist/0.1.3/tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
